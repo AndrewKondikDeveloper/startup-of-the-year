@@ -1,3 +1,3 @@
 # startup-of-the-year
 
-https://github.com/AndrewKondikDeveloper/startup-of-the-year.git
+https://andrewkondikdeveloper.github.io/startup-of-the-year/
